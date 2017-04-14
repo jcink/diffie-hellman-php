@@ -3,9 +3,8 @@
  * Diffie-Hellman Key Exchange (PHP)
  * 
  * @author      John Cuppi
- * @code        
  * @license     http://unlicense.org/UNLICENSE
- * @version		0.1
+ * @version     0.1
  * @updated     1:53 PM Friday, April 14, 2017
  *
  * @description This is an academic example of the 
