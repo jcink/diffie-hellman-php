@@ -23,11 +23,11 @@ Command:
 
 Output:
 
-`The value of p selected: 2205759217
-The value of g selected: 2000375980
-The value of a selected by Alice: 2016295672
-The value of b selected by Bob: 1146783380
-The value of A sent to Bob by Alice: 591592312
-The value of B sent to Bob by Alice: 287287597
-Shared Key: 218785632`
+`The value of p selected: 2205759217`
+`The value of g selected: 2000375980`
+`The value of a selected by Alice: 2016295672`
+`The value of b selected by Bob: 1146783380`
+`The value of A sent to Bob by Alice: 591592312`
+`The value of B sent to Bob by Alice: 287287597`
+`Shared Key: 218785632`
 
