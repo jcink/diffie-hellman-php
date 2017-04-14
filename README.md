@@ -5,6 +5,7 @@ It is  not meant to be used for any real world purpose.
 
 Requirements
 ============
+
 This library requires `PHP >= 7.x` and the `GNU Multiple Precision/GMP` functions enabled in PHP's `Mathematical Extensions` (http://php.net/manual/en/book.gmp.php)
 without this it will NOT work. This application is meant to handle very large integers, tested as high as 3072 bits.
 
