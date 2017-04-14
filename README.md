@@ -23,7 +23,7 @@ Command:
 
 Output:
 
-`The value of p selected: 2205759217`  <br />
+`The value of p selected: 2205759217`
 
 `The value of g selected: 2000375980`
 
