@@ -14,7 +14,7 @@ Application can be run from anywhere. On windows, you can just put it in the sam
 
 Usage
 ============
-Run via terminal. The program takes the size of the prime number p (in bits).
+Run via terminal. The program takes the size of the prime number p in the specified bit range.
 
 Command:
 
