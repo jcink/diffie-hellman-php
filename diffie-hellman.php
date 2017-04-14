@@ -9,9 +9,9 @@
  * @updated     1:53 PM Friday, April 14, 2017
  *
  * @description This is an academic example of the 
- *				diffie-hellman key exchange. It is 
- *				not meant to be used for any real
- *				world purpose.
+ * diffie-hellman key exchange. It is 
+ * not meant to be used for any real
+ * world purpose.
  ****************************************************/
  
 // Enable this to check equations with a static value
