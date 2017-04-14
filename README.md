@@ -1,7 +1,6 @@
 Diffie-Hellman Key Exchange (PHP)
 ============
-This is an academic example of the diffie-hellman key exchange in PHP. 
-It is  not meant to be used for any real world purpose.
+This is an academic example of the diffie-hellman key exchange in PHP. It is  not meant to be used for any real world purpose. The values of $p; $g; $a; $b are generated randomly as per the Diffie-Hellman protocol.
 
 Requirements
 ============
